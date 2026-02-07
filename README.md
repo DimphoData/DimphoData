@@ -21,16 +21,16 @@ I focus on turning messy data and manual processes into **scalable, automated, i
 
 ## 🛠 Tech Stack
 
-**Data & Engineering**
+**Data & Engineering**:
 SQL • Python • Pandas • ETL • Data Modeling • Data Cleaning • Feature Engineering • Jupyter
 
-**BI & Visualization**
+**BI & Visualization**:
 Power BI • Dashboards • DAX • Excel • Reporting • Business Intelligence
 
-**CRM & Automation**
+**CRM & Automation**:
 Salesforce Administration • Flow Builder • Process Automation • Data Loader • SOQL • Reports & Dashboards • System Configuration
 
-**Practices**
+**Practices**:
 Analytics • Problem Solving • Stakeholder Communication • SDLC • Documentation
 
 ---
