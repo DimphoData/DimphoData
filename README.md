@@ -60,6 +60,7 @@ Developed executive dashboards translating raw operational data into actionable 
 
 ## 📫 Connect With Me
 Email: dimpho1997manana@gmail.com
-Cell No.: +27 68 539 5053
-LinkedIn: https://www.linkedin.com/in/dimpho-manana-52890a213  
 
+Cell No.: +27 68 539 5053
+
+LinkedIn: https://www.linkedin.com/in/dimpho-manana-52890a213  
