@@ -1,5 +1,5 @@
 # Dimpho Manana
-### Data Analyst | Data Engineer | Salesforce Certified Administrator | Business Intelligence
+### Data Analyst | Data Scientist | Data Engineer | Salesforce Certified Administrator | Analytical Problem Solver
 
 I design and build data-driven systems that help organisations make better decisions.
 
