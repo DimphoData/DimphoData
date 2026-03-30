@@ -1,18 +1,20 @@
 # Dimpho Manana
-### Data Analyst | Data Scientist | Data Engineer | Salesforce Certified Administrator | Analytical Problem Solver
+### Data Analyst | Data Scientist | Data Engineer | Salesforce Platform Developer | CRM & Data Systems Builder | Analytical Problem Solver
 
-I design and build data-driven systems that help organisations make better decisions.
+I design and build **data-driven and CRM systems** that help organisations make better decisions.
 
-My experience spans **Data Analytics, Data Science, Data Engineering, and Salesforce CRM**, allowing me to work across the full data lifecycle - from data extraction and cleaning, to modeling, automation, dashboards, and production-ready solutions.
+My experience spans **Data Analytics, Data Science, Data Engineering, Salesforce CRM and Salesforce Development**, allowing me to work across the full data lifecycle - from data extraction and cleaning, to modeling, automation, dashboards, production-ready solutions and scalable system design.
 
-I focus on turning messy data and manual processes into **scalable, automated, insight-driven systems**.
+I focus on turning messy data and manual processes into **scalable, automated, insight-driven platforms** that support real business operations.
 
 ---
 
 ## 🚀 What I Do
 - Build SQL & Python data pipelines (ETL/ELT)
 - Clean, transform, and validate large datasets
-- Design Power BI dashboards and data models (Star Schema)
+- Design **Power BI dashboards and data models (Star Schema)**
+- Develop **Salesforce automation using Flows, Apex, and platform tools**
+- Build **custom Salesforce logic using Apex and SOQL**
 - Automate business processes using Salesforce Flows & CRM configuration
 - Translate business requirements into technical solutions
 - Deliver analytics that drive measurable business impact
@@ -22,16 +24,16 @@ I focus on turning messy data and manual processes into **scalable, automated, i
 ## 🛠 Tech Stack
 
 **Data & Engineering**:
-SQL • Python • Pandas • ETL • Data Modeling • Data Cleaning • Feature Engineering • Jupyter
+SQL • Python • Pandas • ETL/ELT • Data Modeling • Data Cleaning • Feature Engineering • Jupyter
 
 **BI & Visualization**:
 Power BI • Dashboards • DAX • Excel • Reporting • Business Intelligence
 
-**CRM & Automation**:
-Salesforce Administration • Flow Builder • Process Automation • Data Loader • SOQL • Reports & Dashboards • System Configuration
+**Salesforce Development & CRM**:
+Salesforce Administration • Apex • SOQL • Salesforce Flows • Process Automation • Data Loader • Lightning Platform • Reports & Dashboards • System Configuration
 
 **Practices**:
-Analytics • Problem Solving • Stakeholder Communication • SDLC • Documentation
+Analytics • Problem Solving • Stakeholder Communication • SDLC • Documentation • Debugging
 
 ---
 
@@ -49,12 +51,20 @@ Built repeatable pipelines for cleaning, transforming, and preparing 25,000+ rec
 ### 📊 Business Intelligence & Reporting
 Developed executive dashboards translating raw operational data into actionable insights for decision-making.
 
+### 🤖 AI Customer Support Automation (Salesforce Service Cloud)
+Designed and built an AI-driven case management system in Salesforce that automatically classifies support requests, prioritizes issues based on sentiment and category, and auto-resolves simple cases using Flow automation. Implemented a scalable data model with custom objects, AI-style decision logic, and dashboards to provide real-time insights into support trends, case distribution, and resolution performance.
+
 ---
 
 ## 🎓 Background
 - Data Analytics → Data Science → Data Engineering (ALX Africa & Explore AI Academy)
+
+- Salesforce Certifications:
 - Salesforce Certified Administrator
-- Hands-on project experience across analytics, engineering, and CRM systems
+- Salesforce Platform App Builder
+- Salesforce Platform Developer I
+
+- Hands-on project experience across **analytics, engineering, and CRM systems.**
 
 ---
 
