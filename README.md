@@ -59,10 +59,13 @@ Designed and built an AI-driven case management system in Salesforce that automa
 ## 🎓 Background
 - Data Analytics → Data Science → Data Engineering (ALX Africa & Explore AI Academy)
 
-- Salesforce Certifications:
-- Salesforce Certified Administrator
-- Salesforce Platform App Builder
-- Salesforce Platform Developer I
+- **Salesforce Certifications**:
+  
+  1, Salesforce Certified Administrator
+
+  2, Salesforce Platform App Builder
+
+  3, Salesforce Platform Developer I
 
 - Hands-on project experience across **analytics, engineering, and CRM systems.**
 
